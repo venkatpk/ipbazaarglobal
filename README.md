@@ -1,2 +1,2 @@
 # ipbazaarglobal
-Repository for ipBazaar website
+Repository for ipBazaar website test
